@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+ body {
+     background-color: lightblue;
+}
+
+p{
+    padding:7px;
+    border-radius: 5px;
+}
+h1 {
+    text-align: center;
+}
